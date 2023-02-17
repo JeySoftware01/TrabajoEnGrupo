@@ -254,8 +254,7 @@ body{
 
  }
  .biografia p {
-    font-size: 20px;
- }
+    font-size: 20; }
  /* css boton */
 .boton {
     display: flex;
@@ -277,7 +276,7 @@ body{
     
  }
  .btn:hover{
-    color: rgb(73, 0, 0);
+    color: rgb(2, 1, 1);
     
  }
  /* css footer  */
